@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         TagPro r/place  Template
 // @namespace    http://tagpro.gg/
-// @version      0.2
+// @version      0.3
 // @description  Shows which colors to use for the TagPro design
 // @author       Catalyst, Fa113n5tar
 // @match        https://hot-potato.reddit.com/embed*
