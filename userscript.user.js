@@ -6,6 +6,8 @@
 // @author       Catalyst
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://tagpro.koalabeast.com/images/favicon.ico
+// @updateURL    https://github.com/catalyst518/tagpro_place_template/raw/main/userscript.user.js
+// @downloadURL  https://github.com/catalyst518/tagpro_place_template/raw/main/userscript.user.js
 // @grant        none
 // ==/UserScript==
 if (window.top !== window.self){
